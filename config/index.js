@@ -17,3 +17,8 @@ export default {
   },
   port: parseInt(process.env.PORT),
 };
+//.env = environment variables
+//code not available for anyone to read
+//it's how to cloak sensitive code/material
+//with the git ignore the .env will not be posted on github
+//IMPORTANT
